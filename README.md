@@ -18,4 +18,4 @@ Aşağıdaki Kodu cmd de Kurmak istediğiniz dizine yapıştırın
 [MIT](https://choosealicense.com/licenses/mit/)
 
 ### Dipnot
-.htaccess dosyası olmadan proje çalışmaz eğer projede bir sorun görürseniz lütfen bana issues sayfasından bildirin.
+.htaccess dosyası olmadan proje çalışmaz eğer projede bir sorun görürseniz lütfen bana [issues](https://github.com/byk1lla/doviz/issues) sayfasından bildirin.
